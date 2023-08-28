@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692612918 source:c:\users\student.prg-12\documents\vigenere\main.c
+	<stdio.h>
+	<string.h>
+
